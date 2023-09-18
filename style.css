@@ -1,0 +1,22 @@
+:root {
+    --radius: 0.4rem;
+    --clr-primary: #18ffff;
+    --clr-primary-light: #adffff;
+    --clr-gray300: #e1e5ee;
+    --clr-bg: #191f3f;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    background-color: var(--clr-bg);
+}
