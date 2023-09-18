@@ -3,7 +3,7 @@
     --clr-primary: #18ffff;
     --clr-primary-light: #adffff;
     --clr-gray300: #e1e5ee;
-    --clr-bg: #191f3f;
+    --clr-bg: #001219;
 }
 
 * {
@@ -19,6 +19,7 @@ body {
     align-items: center;
     font-size: 1.25rem;
     background-color: var(--clr-bg);
+    font-family: sans-serif;
 }
 
 .form {
